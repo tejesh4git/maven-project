@@ -26,7 +26,7 @@
 	                <sonar.login>admin</sonar.login>
 	                <sonar.password>admin</sonar.password>
 	            </properties>
-	        </profile>
+  </profile>
 
   <modules>
     <module>server</module>
